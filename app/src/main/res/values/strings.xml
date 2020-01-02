@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FragmentInetraction</string>
+    <string name="action_settings">action_settings</string>
+    <string name="nav_header_title">nav_header_title</string>
+    <string name="nav_header_subtitle">nav_header_subtitle</string>
+    <string name="nav_header_desc">nav_header_desc</string>
+</resources>
